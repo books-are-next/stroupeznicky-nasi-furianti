@@ -1,16 +1,16 @@
 {
   "author": "Ladislav Stroupežnický",
   "contenttype": "prose",
-  "identifier": "stroupeznicky-nasi-furianti-9e331df",
+  "identifier": "stroupeznicky-nasi-furianti-3d320c6",
   "languagecode": "cs",
   "modified": "2022-02-04T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Naši furianti",
-  "revision": "9e331df",
+  "revision": "3d320c6",
   "generatedAt": {
-    "date": "Fri Apr 08 2022 09:16:35 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649409395668
+    "date": "Fri Apr 08 2022 09:22:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649409755992
   },
   "documents": [
     {
@@ -258,7 +258,7 @@
       "role": "chapter",
       "order": 5,
       "prev": "nasi_furianti_008.html",
-      "next": "nasi_furianti_010.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -313,34 +313,14 @@
       ]
     },
     {
-      "title": "Naši furianti",
-      "file": "nasi_furianti_010.html",
-      "words": 54,
-      "chars": 369,
-      "ideas": 13,
-      "role": "chapter",
-      "order": 6,
-      "prev": "nasi_furianti_009.html",
-      "next": "colophon.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Tiráž • Naši furianti",
       "file": "colophon.html",
-      "words": 93,
-      "chars": 626,
-      "ideas": 12,
+      "words": 147,
+      "chars": 995,
+      "ideas": 25,
       "role": "colophon",
       "order": null,
-      "prev": "nasi_furianti_010.html",
+      "prev": "nasi_furianti_009.html",
       "next": null,
       "toc": [
         {
@@ -360,9 +340,9 @@
       "ideas": 1057
     },
     "chapters": {
-      "words": 18944,
-      "chars": 109953,
-      "ideas": 1042
+      "words": 18890,
+      "chars": 109584,
+      "ideas": 1029
     }
   }
 }

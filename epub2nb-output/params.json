@@ -93,7 +93,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "OSOBY"
           },
           {
             "filename": "nasi_furianti_006.md",
@@ -105,7 +106,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "JEDNÁNÍ PRVNÍ"
           },
           {
             "filename": "nasi_furianti_007.md",
@@ -117,7 +119,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "JEDNÁNÍ DRUHÉ"
           },
           {
             "filename": "nasi_furianti_008.md",
@@ -129,7 +132,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "JEDNÁNÍ TŘETÍ"
           },
           {
             "filename": "nasi_furianti_009.md",
@@ -141,13 +145,14 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "JEDNÁNÍ ČTVRTÉ"
           },
           {
             "filename": "nasi_furianti_010.md",
             "xhtml": "nasi_furianti_010.xhtml",
             "id": 9,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -314,6 +319,6 @@
       "user": "books-are-next",
       "repo": "stroupeznicky-nasi-furianti"
     },
-    "generatedAt": 1649409343670
+    "generatedAt": 1649409710655
   }
 }
