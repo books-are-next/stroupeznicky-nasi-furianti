@@ -1,0 +1,218 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Naši furianti",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Ladislav Stroupežnický",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2022-02-04T00:00:00.000Z",
+    "published": "2022-02-04T13:08:04.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.2",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nasi_furianti_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nasi_furianti_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nasi_furianti_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nasi_furianti_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nasi_furianti_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nasi_furianti_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nasi_furianti_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nasi_furianti_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nasi_furianti_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nasi_furianti_010.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image003.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image004.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_nasi_furianti.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "OSOBY",
+      "href": "OEBPS/Text/nasi_furianti_005.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "JEDNÁNÍ PRVNÍ",
+      "children": [
+        {
+          "title": "Výstup 1",
+          "href": "OEBPS/Text/nasi_furianti_006.xhtml#_idParaDest-3"
+        },
+        {
+          "title": "Výstup 2",
+          "href": "OEBPS/Text/nasi_furianti_006.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "Výstup 3",
+          "href": "OEBPS/Text/nasi_furianti_006.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "Výstup 4",
+          "href": "OEBPS/Text/nasi_furianti_006.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "Výstup 5",
+          "href": "OEBPS/Text/nasi_furianti_006.xhtml#_idParaDest-7"
+        },
+        {
+          "title": "Výstup 6",
+          "href": "OEBPS/Text/nasi_furianti_006.xhtml#_idParaDest-8"
+        },
+        {
+          "title": "Výstup 7",
+          "href": "OEBPS/Text/nasi_furianti_006.xhtml#_idParaDest-9"
+        }
+      ],
+      "href": "OEBPS/Text/nasi_furianti_006.xhtml#_idParaDest-2"
+    },
+    {
+      "title": "JEDNÁNÍ DRUHÉ",
+      "children": [
+        {
+          "title": "Výstup 1",
+          "href": "OEBPS/Text/nasi_furianti_007.xhtml#_idParaDest-11"
+        },
+        {
+          "title": "Výstup 2",
+          "href": "OEBPS/Text/nasi_furianti_007.xhtml#_idParaDest-12"
+        },
+        {
+          "title": "Výstup 3",
+          "href": "OEBPS/Text/nasi_furianti_007.xhtml#_idParaDest-13"
+        }
+      ],
+      "href": "OEBPS/Text/nasi_furianti_007.xhtml#_idParaDest-10"
+    },
+    {
+      "title": "JEDNÁNÍ TŘETÍ",
+      "children": [
+        {
+          "title": "Výstup 1",
+          "href": "OEBPS/Text/nasi_furianti_008.xhtml#_idParaDest-15"
+        },
+        {
+          "title": "Výstup 2",
+          "href": "OEBPS/Text/nasi_furianti_008.xhtml#_idParaDest-16"
+        },
+        {
+          "title": "Výstup 3",
+          "href": "OEBPS/Text/nasi_furianti_008.xhtml#_idParaDest-17"
+        },
+        {
+          "title": "Výstup 4",
+          "href": "OEBPS/Text/nasi_furianti_008.xhtml#_idParaDest-18"
+        },
+        {
+          "title": "Výstup 5",
+          "href": "OEBPS/Text/nasi_furianti_008.xhtml#_idParaDest-19"
+        },
+        {
+          "title": "Výstup 6",
+          "href": "OEBPS/Text/nasi_furianti_008.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "Výstup 7",
+          "href": "OEBPS/Text/nasi_furianti_008.xhtml#_idParaDest-21"
+        },
+        {
+          "title": "Výstup 8",
+          "href": "OEBPS/Text/nasi_furianti_008.xhtml#_idParaDest-22"
+        },
+        {
+          "title": "Výstup 9",
+          "href": "OEBPS/Text/nasi_furianti_008.xhtml#_idParaDest-23"
+        }
+      ],
+      "href": "OEBPS/Text/nasi_furianti_008.xhtml#_idParaDest-14"
+    },
+    {
+      "title": "JEDNÁNÍ ČTVRTÉ",
+      "children": [
+        {
+          "title": "Výstup 1",
+          "href": "OEBPS/Text/nasi_furianti_009.xhtml#_idParaDest-25"
+        },
+        {
+          "title": "Výstup 2",
+          "href": "OEBPS/Text/nasi_furianti_009.xhtml#_idParaDest-26"
+        },
+        {
+          "title": "Výstup 3",
+          "href": "OEBPS/Text/nasi_furianti_009.xhtml#_idParaDest-27"
+        },
+        {
+          "title": "Výstup 4",
+          "href": "OEBPS/Text/nasi_furianti_009.xhtml#_idParaDest-28"
+        },
+        {
+          "title": "Výstup 5",
+          "href": "OEBPS/Text/nasi_furianti_009.xhtml#_idParaDest-29"
+        },
+        {
+          "title": "Výstup 6",
+          "href": "OEBPS/Text/nasi_furianti_009.xhtml#_idParaDest-30"
+        }
+      ],
+      "href": "OEBPS/Text/nasi_furianti_009.xhtml#_idParaDest-24"
+    }
+  ]
+}

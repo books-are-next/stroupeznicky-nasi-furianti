@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ladislav Stroupežnický</text>
+  </docTitle>
+  <docAuthor>
+    <text>Naši furianti</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>OSOBY</text>
+      </navLabel>
+      <content src="Text/nasi_furianti_005.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>JEDNÁNÍ PRVNÍ</text>
+      </navLabel>
+      <content src="Text/nasi_furianti_006.xhtml#_idParaDest-2"/>
+      <navPoint id="navpoint3" playOrder="3">
+        <navLabel>
+          <text>Výstup 1</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_006.xhtml#_idParaDest-3"/>
+      </navPoint>
+      <navPoint id="navpoint4" playOrder="4">
+        <navLabel>
+          <text>Výstup 2</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_006.xhtml#_idParaDest-4"/>
+      </navPoint>
+      <navPoint id="navpoint5" playOrder="5">
+        <navLabel>
+          <text>Výstup 3</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_006.xhtml#_idParaDest-5"/>
+      </navPoint>
+      <navPoint id="navpoint6" playOrder="6">
+        <navLabel>
+          <text>Výstup 4</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_006.xhtml#_idParaDest-6"/>
+      </navPoint>
+      <navPoint id="navpoint7" playOrder="7">
+        <navLabel>
+          <text>Výstup 5</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_006.xhtml#_idParaDest-7"/>
+      </navPoint>
+      <navPoint id="navpoint8" playOrder="8">
+        <navLabel>
+          <text>Výstup 6</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_006.xhtml#_idParaDest-8"/>
+      </navPoint>
+      <navPoint id="navpoint9" playOrder="9">
+        <navLabel>
+          <text>Výstup 7</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_006.xhtml#_idParaDest-9"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint10" playOrder="10">
+      <navLabel>
+        <text>JEDNÁNÍ DRUHÉ</text>
+      </navLabel>
+      <content src="Text/nasi_furianti_007.xhtml#_idParaDest-10"/>
+      <navPoint id="navpoint11" playOrder="11">
+        <navLabel>
+          <text>Výstup 1</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_007.xhtml#_idParaDest-11"/>
+      </navPoint>
+      <navPoint id="navpoint12" playOrder="12">
+        <navLabel>
+          <text>Výstup 2</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_007.xhtml#_idParaDest-12"/>
+      </navPoint>
+      <navPoint id="navpoint13" playOrder="13">
+        <navLabel>
+          <text>Výstup 3</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_007.xhtml#_idParaDest-13"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint14" playOrder="14">
+      <navLabel>
+        <text>JEDNÁNÍ TŘETÍ</text>
+      </navLabel>
+      <content src="Text/nasi_furianti_008.xhtml#_idParaDest-14"/>
+      <navPoint id="navpoint15" playOrder="15">
+        <navLabel>
+          <text>Výstup 1</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_008.xhtml#_idParaDest-15"/>
+      </navPoint>
+      <navPoint id="navpoint16" playOrder="16">
+        <navLabel>
+          <text>Výstup 2</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_008.xhtml#_idParaDest-16"/>
+      </navPoint>
+      <navPoint id="navpoint17" playOrder="17">
+        <navLabel>
+          <text>Výstup 3</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_008.xhtml#_idParaDest-17"/>
+      </navPoint>
+      <navPoint id="navpoint18" playOrder="18">
+        <navLabel>
+          <text>Výstup 4</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_008.xhtml#_idParaDest-18"/>
+      </navPoint>
+      <navPoint id="navpoint19" playOrder="19">
+        <navLabel>
+          <text>Výstup 5</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_008.xhtml#_idParaDest-19"/>
+      </navPoint>
+      <navPoint id="navpoint20" playOrder="20">
+        <navLabel>
+          <text>Výstup 6</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_008.xhtml#_idParaDest-20"/>
+      </navPoint>
+      <navPoint id="navpoint21" playOrder="21">
+        <navLabel>
+          <text>Výstup 7</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_008.xhtml#_idParaDest-21"/>
+      </navPoint>
+      <navPoint id="navpoint22" playOrder="22">
+        <navLabel>
+          <text>Výstup 8</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_008.xhtml#_idParaDest-22"/>
+      </navPoint>
+      <navPoint id="navpoint23" playOrder="23">
+        <navLabel>
+          <text>Výstup 9</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_008.xhtml#_idParaDest-23"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint24" playOrder="24">
+      <navLabel>
+        <text>JEDNÁNÍ ČTVRTÉ</text>
+      </navLabel>
+      <content src="Text/nasi_furianti_009.xhtml#_idParaDest-24"/>
+      <navPoint id="navpoint25" playOrder="25">
+        <navLabel>
+          <text>Výstup 1</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_009.xhtml#_idParaDest-25"/>
+      </navPoint>
+      <navPoint id="navpoint26" playOrder="26">
+        <navLabel>
+          <text>Výstup 2</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_009.xhtml#_idParaDest-26"/>
+      </navPoint>
+      <navPoint id="navpoint27" playOrder="27">
+        <navLabel>
+          <text>Výstup 3</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_009.xhtml#_idParaDest-27"/>
+      </navPoint>
+      <navPoint id="navpoint28" playOrder="28">
+        <navLabel>
+          <text>Výstup 4</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_009.xhtml#_idParaDest-28"/>
+      </navPoint>
+      <navPoint id="navpoint29" playOrder="29">
+        <navLabel>
+          <text>Výstup 5</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_009.xhtml#_idParaDest-29"/>
+      </navPoint>
+      <navPoint id="navpoint30" playOrder="30">
+        <navLabel>
+          <text>Výstup 6</text>
+        </navLabel>
+        <content src="Text/nasi_furianti_009.xhtml#_idParaDest-30"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
