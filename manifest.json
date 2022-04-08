@@ -1,0 +1,368 @@
+{
+  "author": "Ladislav Stroupežnický",
+  "contenttype": "prose",
+  "identifier": "stroupeznicky-nasi-furianti-9e331df",
+  "languagecode": "cs",
+  "modified": "2022-02-04T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Naši furianti",
+  "revision": "9e331df",
+  "generatedAt": {
+    "date": "Fri Apr 08 2022 09:16:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649409395668
+  },
+  "documents": [
+    {
+      "title": "Naši furianti",
+      "file": "nasi_furianti_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "nasi_furianti_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "OSOBY • Naši furianti",
+      "file": "nasi_furianti_005.html",
+      "words": 170,
+      "chars": 1091,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 1,
+      "prev": "nasi_furianti_002.html",
+      "next": "nasi_furianti_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "OSOBY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ PRVNÍ • Naši furianti",
+      "file": "nasi_furianti_006.html",
+      "words": 5360,
+      "chars": 30655,
+      "ideas": 273,
+      "role": "chapter",
+      "order": 2,
+      "prev": "nasi_furianti_005.html",
+      "next": "nasi_furianti_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ PRVNÍ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Výstup 1",
+              "id": "výstup-1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Výstup 2",
+              "id": "výstup-2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Výstup 3",
+              "id": "výstup-3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Výstup 4",
+              "id": "výstup-4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Výstup 5",
+              "id": "výstup-5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Výstup 6",
+              "id": "výstup-6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Výstup 7",
+              "id": "výstup-7",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ DRUHÉ • Naši furianti",
+      "file": "nasi_furianti_007.html",
+      "words": 5725,
+      "chars": 33277,
+      "ideas": 280,
+      "role": "chapter",
+      "order": 3,
+      "prev": "nasi_furianti_006.html",
+      "next": "nasi_furianti_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ DRUHÉ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Výstup 1",
+              "id": "výstup-1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Výstup 2",
+              "id": "výstup-2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Výstup 3",
+              "id": "výstup-3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ TŘETÍ • Naši furianti",
+      "file": "nasi_furianti_008.html",
+      "words": 4899,
+      "chars": 28616,
+      "ideas": 285,
+      "role": "chapter",
+      "order": 4,
+      "prev": "nasi_furianti_007.html",
+      "next": "nasi_furianti_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ TŘETÍ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Výstup 1",
+              "id": "výstup-1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Výstup 2",
+              "id": "výstup-2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Výstup 3",
+              "id": "výstup-3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Výstup 4",
+              "id": "výstup-4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Výstup 5",
+              "id": "výstup-5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Výstup 6",
+              "id": "výstup-6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Výstup 7",
+              "id": "výstup-7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "Výstup 8",
+              "id": "výstup-8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "Výstup 9",
+              "id": "výstup-9",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ ČTVRTÉ • Naši furianti",
+      "file": "nasi_furianti_009.html",
+      "words": 2736,
+      "chars": 15945,
+      "ideas": 155,
+      "role": "chapter",
+      "order": 5,
+      "prev": "nasi_furianti_008.html",
+      "next": "nasi_furianti_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ ČTVRTÉ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Výstup 1",
+              "id": "výstup-1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Výstup 2",
+              "id": "výstup-2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Výstup 3",
+              "id": "výstup-3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Výstup 4",
+              "id": "výstup-4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Výstup 5",
+              "id": "výstup-5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Výstup 6",
+              "id": "výstup-6",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Naši furianti",
+      "file": "nasi_furianti_010.html",
+      "words": 54,
+      "chars": 369,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 6,
+      "prev": "nasi_furianti_009.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Naši furianti",
+      "file": "colophon.html",
+      "words": 93,
+      "chars": 626,
+      "ideas": 12,
+      "role": "colophon",
+      "order": null,
+      "prev": "nasi_furianti_010.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 19042,
+      "chars": 110617,
+      "ideas": 1057
+    },
+    "chapters": {
+      "words": 18944,
+      "chars": 109953,
+      "ideas": 1042
+    }
+  }
+}
