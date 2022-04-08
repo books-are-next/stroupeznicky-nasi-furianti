@@ -1,123 +1,122 @@
 ---
+title: OSOBY
 contentType: prose
 ---
 
-OSOBY
+  
+
+**FILIP DUBSKÝ**, sedlák a starosta obce honické
 
   
 
-FILIP DUBSKÝ, sedlák a starosta obce honické
+**MARIE DUBSKÁ**, jeho žena
 
   
 
-MARIE DUBSKÁ, jeho žena
+**VÁCLAV**, jejich syn
 
   
 
-VÁCLAV, jejich syn
+**PETR DUBSKÝ**, Filipův otec, výměnkář
 
   
 
-PETR DUBSKÝ, Filipův otec, výměnkář
+**JAKUB BUŠEK**, sedlák a první radní v Honicích
 
   
 
-JAKUB BUŠEK, sedlák a první radní v Honicích
+**FRANTIŠKA BUŠKOVÁ**, jeho žena
 
   
 
-FRANTIŠKA BUŠKOVÁ, jeho žena
+**VERUNKA**, jejich dcera
 
   
 
-VERUNKA, jejich dcera
+**MARTIN**, jejich syn, 14 let starý
 
   
 
-MARTIN, jejich syn, 14 let starý
+**MATĚJ ŠUMBAL**, sedlák a obecní výbor
 
   
 
-MATĚJ ŠUMBAL, sedlák a obecní výbor
+**MARIE**, jeho žena
 
   
 
-MARIE, jeho žena
+**PAVEL KOŽENÝ**, sedlák a obecní výbor
 
   
 
-PAVEL KOŽENÝ, sedlák a obecní výbor
+**KAŠPAR ŠMEJKAL**, sedlák a obecní výbor
 
   
 
-KAŠPAR ŠMEJKAL, sedlák a obecní výbor
+**VALENTIN BLÁHA**, vysloužilý voják
 
   
 
-VALENTIN BLÁHA, vysloužilý voják
+**JOSEF HABRŠPERK**, švec
 
   
 
-JOSEF HABRŠPERK, švec
+**FRANTIŠEK FIALA**, krejčí
 
   
 
-FRANTIŠEK FIALA, krejčí
-
-  
-
-TEREZKA, jeho žena
+**TEREZKA**, jeho žena
 
   
 
 Jejich děti:
 
-KRYSTÝNA, 17letá
+**KRYSTÝNA**, 17letá
 
-MATĚJ, 15letý
+**MATĚJ**, 15letý
 
-PEPIČKA, 18letá
+**PEPIČKA**, 18letá
 
-JOSÍFEK, 11letý
+**JOSÍFEK**, 11letý
 
-MANČA, 9letá
+**MANČA**, 9letá
 
-FRANTIŠEK, 7letý
+**FRANTIŠEK**, 7letý
 
-FILÍPEK, 5letý
+**FILÍPEK**, 5letý
 
-OBECNÍ KOVÁŘ
-
-  
-
-KAREL KUDRLIČKA, učitel v Radoticích a písař obce honické
+**OBECNÍ KOVÁŘ**
 
   
 
-MAREK EHRMANN, majitel hospody v Honicích
+**KAREL KUDRLIČKA**, učitel v Radoticích a písař obce honické
 
   
 
-ROZÁRKA, jeho žena
-
-TOBIÁŠ NEDOCHODIL, MARKÝTKA, jeho sestra, cestující obchodníci dřevěným nádobím od Domažlic
+**MAREK EHRMANN**, majitel hospody v Honicích
 
   
 
-ZÁVODČÍ ČETNÍKŮ, z městečka Rotic
+**ROZÁRKA**, jeho žena
+
+**TOBIÁŠ NEDOCHODIL**, **MARKÝTKA**, jeho sestra, cestující obchodníci dřevěným nádobím od Domažlic
 
   
 
-VOJTA, čeledín na živnosti Dubského
+**ZÁVODČÍ ČETNÍK****Ů**, z městečka Rotic
 
   
 
-PRVNÍ MUZIKANT
+**VOJTA**, čeledín na živnosti Dubského
+
+  
+
+**PRVNÍ MUZIKANT**
 
   
 
 Čtyři muzikanti, ženy, děti, čeleď, chasníci, sousedé.
 
-Děj roku 1869 ve vesnici Honicích v jižních Čechách.
+_Děj roku 1869 ve vesnici Honicích v jižních Čechách._
 
-Dějství I. a IV. hraje se na návsi v Honicích; II. v hospodě a III. ve světnici u starosty Dubského.
+_Dějství I. a IV. hraje se na návsi v Honicích; II. v hospodě a III. ve světnici u starosty Dubského._
