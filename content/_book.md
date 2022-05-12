@@ -13,7 +13,7 @@ meta:
   modified: '2022-02-04T00:00:00.000Z'
   publisherShort: mkp
 readingOrder:
-  - nasi_furianti_002.html
+  - promo.html
   - nasi_furianti_005.html
   - nasi_furianti_006.html
   - nasi_furianti_007.html
