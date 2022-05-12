@@ -1,21 +1,31 @@
 {
-  "author": "Ladislav Stroupežnický",
-  "contenttype": "prose",
-  "identifier": "stroupeznicky-nasi-furianti-3d320c6",
-  "languagecode": "cs",
-  "modified": "2022-02-04T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Naši furianti",
-  "revision": "3d320c6",
+  "author": "Ladislav Stroupežnický",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "stroupeznicky-nasi-furianti-9874513",
+  "revision": "9874513",
+  "readingOrder": [
+    "promo.html",
+    "nasi_furianti_005.html",
+    "nasi_furianti_006.html",
+    "nasi_furianti_007.html",
+    "nasi_furianti_008.html",
+    "nasi_furianti_009.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri Apr 08 2022 09:22:35 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649409755992
+    "date": "Thu May 12 2022 10:42:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352146616
   },
   "documents": [
     {
-      "title": "Naši furianti",
-      "file": "nasi_furianti_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +33,17 @@
       "order": 0,
       "prev": null,
       "next": "nasi_furianti_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "OSOBY • Naši furianti",
+      "title": "OSOBY",
       "file": "nasi_furianti_005.html",
       "words": 170,
       "chars": 1091,
       "ideas": 36,
       "role": "chapter",
       "order": 1,
-      "prev": "nasi_furianti_002.html",
+      "prev": "promo.html",
       "next": "nasi_furianti_006.html",
       "toc": [
         {
@@ -54,7 +56,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ PRVNÍ • Naši furianti",
+      "title": "JEDNÁNÍ PRVNÍ",
       "file": "nasi_furianti_006.html",
       "words": 5360,
       "chars": 30655,
@@ -124,7 +126,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ DRUHÉ • Naši furianti",
+      "title": "JEDNÁNÍ DRUHÉ",
       "file": "nasi_furianti_007.html",
       "words": 5725,
       "chars": 33277,
@@ -166,7 +168,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ TŘETÍ • Naši furianti",
+      "title": "JEDNÁNÍ TŘETÍ",
       "file": "nasi_furianti_008.html",
       "words": 4899,
       "chars": 28616,
@@ -250,7 +252,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ ČTVRTÉ • Naši furianti",
+      "title": "JEDNÁNÍ ČTVRTÉ",
       "file": "nasi_furianti_009.html",
       "words": 2736,
       "chars": 15945,
@@ -313,11 +315,11 @@
       ]
     },
     {
-      "title": "Tiráž • Naši furianti",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 147,
-      "chars": 995,
-      "ideas": 25,
+      "words": 121,
+      "chars": 805,
+      "ideas": 18,
       "role": "colophon",
       "order": null,
       "prev": "nasi_furianti_009.html",
@@ -335,9 +337,9 @@
   ],
   "totals": {
     "all": {
-      "words": 19042,
-      "chars": 110617,
-      "ideas": 1057
+      "words": 19016,
+      "chars": 110427,
+      "ideas": 1050
     },
     "chapters": {
       "words": 18890,
