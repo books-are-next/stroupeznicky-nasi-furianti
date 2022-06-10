@@ -3,6 +3,8 @@ title: JEDNÁNÍ PRVNÍ
 contentType: prose
 ---
 
+<section>
+
 _Náves v Honicích; celá hloubka jeviště. V pozadí do podkovy selské statky a chalupy; střechy doškové, štíty dřevěné do návsi. V čele chalup po dvou oknech, před nimi zahrádky. V pozadí nalevo domek pěkně obílený s červenou taškovou střechou a věncem, odznakem hospody. V pozadí louže, u ní několik topolů. Na louži plavou husy a kachny. V pozadí napravo o samotě kaplička s dveřmi a dvěma schody do hlediště a s vížkou, v níž je zvonek. Vůkol čtyři lípy. V nejkrajnějším popředí nalevo obecní kovárna s přístřeškem ke kování koní. V popředí napravo chalupa ševce Habršperka; na chalupě tabulka s nápisem:_
 
 _„Země: Čechy  
@@ -164,7 +166,9 @@ _VERUNKA odběhne do statku v pozadí nalevo._
 
 _HABRŠPERK a BLÁHA na lávce. V pozadí MARKÝTKA a TOBIÁŠ. V hovoru s nimi ŠUMBALKA, DUBSKÁ a houf jiných žen, které kupují dřevěné nádobí… BUŠEK a DUBSKÝ přicházejí z pravé strany. EHRMANN objeví se u kovárny a mluví s KOVÁŘEM._
 
-  
+</section>
+
+<section>
 
 **BUŠEK** _(ukazuje za VÁCLAVEM a VERUNKOU)_: No, jářku, Filipe, sluší jim to, co?
 
@@ -220,13 +224,17 @@ _HABRŠPERK a BLÁHA na lávce. V pozadí MARKÝTKA a TOBIÁŠ. V hovoru s 
 
 _Mezi touto poslední řečí odejdou všichni tři ke kovárně, kde se dají do řeči s KOVÁŘEM a usadí se pod přístřeškem. – BLÁHA a HABRŠPERK sedí před chalupou, a hovoříce, kouří z dýmek. HABRŠPERK leští pár vysokých bot, které jsou naraženy na deskách._
 
-  
+</section>
+
+<section>
 
 ## Výstup 4
 
 _FIALOVÁ, KRYSTÝNA, za ní ostatních šest DĚTÍ seřaděno tak, že za Krystýnou, která je nejstarší, stojí ostatní dle výšky v tom pořadu, že je nejmenší dítě FILÍPEK poslední. – PŘEDEŠLÍ._
 
-  
+</section>
+
+<section>
 
 **FIALOVÁ** _(přísně k DĚTEM)_**:** Já **sem** přivedu _(ukáže ke kovárně)_ tamhle vašeho kmotříčka Buška s pantátou Dubským a dám jim žádost, aby udělali vašeho tatíka ponocným, a vy jim oboum pěkně políbíte ruce. Rozumíte?
 
@@ -397,7 +405,9 @@ _DUBSKÝ odejde do pozadí._
 
 _PŘEDEŠLÍ, FIALA, FIALOVÁ, KRYSTÝNA a OSTATNÍ DĚTI _ženou se prudce na jeviště._ ŠUMBALKA zatíná pěsti._
 
-  
+</section>
+
+<section>
 
 **FIALOVÁ** _(při vstoupení na jeviště k FIALOVI, vztekem jsouc rozpálena)_**:** Jak povídám, starej, tohle ty nemůžeš tak nechat! On vynadal tvým dětem cikánů!
 
@@ -459,7 +469,9 @@ _FIALA hrozí EHRMANNOVI. EHRMANN mu tiše domlouvá._
 
 _ŠUMBAL. PŘEDEŠLÍ._
 
-  
+</section>
+
+<section>
 
 **ŠuMbal** _(s uzlíkem na holi na rameni)_**:** I pozdrav pámbu, sousedi! **–** _(Spatří ženu – radostně.)_ I koukejme – moje stará je tu! Pozdrav pámbu, Marjánko!
 
@@ -497,7 +509,9 @@ _Zároveň PETR, velice čiperný 75letý stařeček, opírá se o hůl, ale je
 
 _PŘEDEŠLÍ _bez_ ŠUMBALA _a_ ŠUMBALKY_.__
 
-  
+</section>
+
+<section>
 
 **BLÁHA** _(žene se po FIALOVI)_**:** Tak ty mě takovou pomluvou připravuješ o hlasy? – Ty taškáři…
 
@@ -541,7 +555,9 @@ _FIALA se toho ulekne. Všichni se zarazí a umlknou. Malá pauza. Všichni se 
 
 _Ticho._
 
-  
+</section>
+
+<section>
 
 **FIALA** _(udělá ve zlosti kříž a začne se modlit, ale jeho zlost zase propukne; hrozí pěstí zezadu BLÁHOVI a soptí vztekem – k sobě)_**:** No počkej, tobě já zasolím! _(Modlí se, pak zase zlostně.)_ Tebe jistě ponocným neudělají.
 
@@ -550,3 +566,5 @@ _Ticho._
 _PETR zvoní dále. Všichni se modlí. Červánky zapadajícího slunce ozáří vesnici._
 
 _Opona padá._
+
+</section>

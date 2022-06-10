@@ -3,13 +3,17 @@ title: JEDNÁNÍ TŘETÍ
 contentType: prose
 ---
 
+<section>
+
 _Světnice u představeného Dubského. V pozadí vchod z venku, nalevo vchod do druhé světnice, napravo okno. Nalevo v koutě velká zelená kachlová kamna s plotnou na vaření – kol kamen lavice. Nad kamny zavěšeny jsou na šňůrách od stropu dvě tyčky, na nichž se suší prádlo. V pravém koutě stůl s trnoži, v koutě za ním do rohu lavice. Zpředu u stolu stolice. Na zdích obrazy svatých, malované na skle – v koutě nad stolem na hrubé, černě natřené konzole na zdi zavěšena zasklená skřínka se soškou Panny Marie, vystrojenou v hedvábné, krajkami obroubené šaty. Soška má na šňůrce na krku tolary a dvacetníky. Za obrazy svatých jsou zastrčeny svěcené kočičky. U dveří v pozadí visí kropenka se svěcenou vodou. Vlevo v popředí malý stolek. Světnice je čistě vybílena a na zdích vůkol asi půl druhého metru od podlahy je zelený „štráf“, nad ním primitivně, skrze patronu malované „kytky“. Napravo v popředí před oknem je obraz – hrubý kamenotisk dosti nemotorně vodovými barvami omalovaný, představující vojáka v uniformě. Hlavička je vystřižena z fotografie a přilepena k tělu. Za obrazem zastrčeny jsou dvě zvadlé větvičky chvoje. Pod obrazem visí klec, v níž poskakuje drozd._
 
 ## Výstup 1
 
 _U malého stolku nalevo sedí DUBSKÁ a PETR a přebírají hrách; VÁCLAV, později MARKÝTKA._
 
-  
+</section>
+
+<section>
 
 **Václav** _(stojí před klecí a hraje si s drozdem)_: Ano, ano, můj zlatej ptáčku – dnes jsi u nás poslední den; zítra donesu tě Verunce!
 
@@ -73,7 +77,9 @@ _V síni se ozve hovor – hlasy DUBSKÉHO, BUŠKA, ŠUMBALA a KOŽE­NÉHO._
 
 _ŠUMBAL, BUŠEK, KOŽENÝ a učitel KUDRLIČKA – za nimi DUBSKÝ. PŘEDEŠLÍ._
 
-  
+</section>
+
+<section>
 
 **DUBSKÝ****:** Tak jen dál, sousedi, jen dál.
 
@@ -179,7 +185,9 @@ _DUBSKÁ zlostně mluví s PETREM, který přebíral dosud hrách do hrníčku,
 
 _**FIALA**. PŘEDEŠLÍ_.__
 
-  
+</section>
+
+<section>
 
 **FIALA** _(úlisně a plazivě)_: Pámbu rač dát šťastný dobrý odpoledne.
 
@@ -197,7 +205,9 @@ _UČITEL zatím píše._
 
 _PŘEDEŠLÍ. MARTIN._
 
-  
+</section>
+
+<section>
 
 **Martin** _(kluk asi 16letý, vrazí bez čepice všecek uřícen do světnice, přiskočí k BUŠKOVI a křičí rychle)_**:** Pantáto! Pantáto! V našich bramborách leží zajíc jako jehně.
 
@@ -223,7 +233,9 @@ _Výborové pozastavují se nad tím. – Hra._
 
 _PŘEDEŠLÍ. VÁCLAV vede BLÁHU; oba vejdou středem. BLÁHA má v ruce písničku, kterou včera dostal VÁCLAV od KRYSTÝNY._
 
-  
+</section>
+
+<section>
 
 **Václav** _(radostně)_**:** Páni sousedi, to vám nesu veselou novinu!
 
@@ -342,7 +354,9 @@ _Všichni se smějí. ŠMEJKAL se směje zvlášť nápadně._
 
 _PŘEDEŠLÍ. KRYSTÝNA._
 
-  
+</section>
+
+<section>
 
 **Krystýna****:** Pajmámo, vy prej jste pro mě poslala?
 
@@ -468,7 +482,9 @@ _DUBSKÁ se vrátí, vezme za límec FIALU a vystrčí ho také._
 
 _PŘEDEŠLÍ. BUŠEK vrazí do světnice, je vidět, že má radost. BLÁHU, který stojí u dveří, nepozoruje. Jde do popředí._
 
-  
+</section>
+
+<section>
 
 **Šmejkal****:** Dostals ho?
 
@@ -581,3 +597,5 @@ _PŘEDEŠLÍ. Středem vejde chvatně ČETNÍK v celé zbroji. Všichni se ulek
 **DUBSKÝ** _(jásá a hrozí BUŠKOVI)_**:** No počkej, ty furiante, tenkrát tě arest nemine.
 
 _Opona padá._
+
+</section>

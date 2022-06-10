@@ -3,15 +3,21 @@ title: JEDNÁNÍ ČTVRTÉ
 contentType: prose
 ---
 
+<section>
+
 _Úprava scény jako v dějství prvním. Mezi tímto dějstvím a předešlým uplynula jen malá chvilka._
 
-  
+</section>
+
+<section>
 
 ## Výstup 1
 
 _V pozadí od živnosti DUBSKÝCH přicházejí KOŽENÝ, ŠUMBAL, ŠMEJKAL a BUŠEK. Velice živě rokujíce, zastaví se v pozadí. V popředí před kapličkou stojí BLÁHA s ponocenskou troubou a kožichem, rozmlouvá s HABRŠPERKEM, který má pod paží velký svitek vydělaných koží. Později MARKÝTKA._
 
-  
+</section>
+
+<section>
 
 **BLÁHA****:** No tak teď jsem ti to všecko vyložil, jakej to byl v tej hromadě rumrejch. Koukej, tamhle ještě stojí všichni vejboři a rokujou. – No a Václav, ten se zavřel do vejstupku a nikoho nechce k sobě pustit.
 
@@ -77,7 +83,9 @@ _BLÁHA pokrčí rameny, jako by chtěl říci: Tomu nerozumím! Jde k Habršpe
 
 _Ze živnosti DUBSKÝCH žene se úprkem VÁCLAV v černých svátečních šatech. Za ním DUBSKÁ a PETR. Oba domlouvají mu usilovně. DUBSKÝ. Předešlí._
 
-  
+</section>
+
+<section>
 
 **DUBSKÁ****:** Václave, co myslíš?
 
@@ -91,7 +99,9 @@ _Ze živnosti DUBSKÝCH žene se úprkem VÁCLAV v černých svátečních šat
 
 _PŘEDEŠLÍ. VERUNKA přiběhne zděšená z levé strany a vrhne se VÁCLAVOVI kolem krku._
 
-  
+</section>
+
+<section>
 
 **Verunka****:** Václave, ty prej se chceš dát na vojnu!
 
@@ -155,7 +165,9 @@ _DUBSKÝ mluví rozčileně se ŠMEJKALEM. V pozadí objeví se ČETNÍK._
 
 _PŘEDEŠLÍ. Z pozadí přichází ČETNÍK a jde ke skupině výborů._
 
-  
+</section>
+
+<section>
 
 **četník** _(velice způsobně)_: No, páni sousedi, vy taky nevíte, kdo byl ten pytlák, který toho zajíce zastřelil?
 
@@ -255,7 +267,9 @@ _Odejdou spolu do pozadí a posadí se na práh kapličky._
 
 _Předešlí. FIALA, FIALOVÁ, KRYSTÝNA a ostatních šest DĚTÍ. Když přicházejí, je slyšet z kovárny bušení kladiv o kovadlinu._
 
-  
+</section>
+
+<section>
 
 **FIALA** _(vrhne se s DĚTMI před BUŠKEM na kolena)_: Proboha vás prosím, pantáto, neudávejte mě četníkům, já už to víckrát neudělám.
 
@@ -305,7 +319,9 @@ _MARKÝTKA učiní totéž. FIALA, TEREZKA a DĚTI líbají jim ruce._
 
 _PŘEDEŠLÍ, PETR, za ním DUBSKÁ – vedouc VÁCLAVA z jedné a VE­RUNKU z druhé strany._
 
-  
+</section>
+
+<section>
 
 **Verunka** _(pustí Václava a padne BUŠKOVI kolem krku – radostně)_: Pantáto! Pantáto!
 
@@ -324,3 +340,5 @@ _VÁCLAV objímá zatím v pozadí VERUNKU._
 **BLÁHA****:** Abys na ně nevyzrál – takovej vzdělanej člověk!
 
 _Opona padá._
+
+</section>

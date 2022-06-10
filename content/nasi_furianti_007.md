@@ -3,13 +3,17 @@ title: JEDNÁNÍ DRUHÉ
 contentType: prose
 ---
 
+<section>
+
 _Šenkovna v honické hospodě. V pozadí ve středu dveře. V levém koutě velká zelená kachlová kamna, od nich směrem do popředí při zdi „kruchta“ pro muzikanty, zeleně natřená; v pravém stůl k nalévání piva – za nimi ve zdi výklenek s policemi, na nichž stojí zásobní sklenice na pivo a kořalku – pak láhve s punčem a rosolkami. Na zdích jsou svícny ze dřeva a v nich lojové svíčky; v pozadí napravo i nalevo směrem z pozadí do popředí dva stoly a kol nich stolice. Prostředek volný k tančení._
 
 ## Výstup 1
 
 _Na pravé straně u stolu sedí DUBSKÝ, DUBSKÁ, VÁCLAV, PETR a BLÁHA. Na levé straně BUŠEK, BUŠKOVÁ, VERUNKA, FIALA a FIALOVÁ. V pozadí sedí ŠMEJKAL, KOŽENÝ, KOVÁŘ a jiní SOUSEDÉ a SOUSEDKY. – Muži kouří z krátkých dýmek; chasníci kouří krátké doutníky a baví se s děvčaty. Všichni ve svátečním obleku. Mnozí mají svlečené kabáty – mají tedy toliko vesty a bílé košile. Jet před večerem. V pozadí stolu nálevního je EHRMANN se svojí ŽENOU; oba obsluhují hosty**.** Rozvojem aktu naleze za kamna houf DĚTÍ, které tam skotačí. Pozadím vstupuje MARKÝTKA a TOBIÁŠ, oba v kroji z okolí domažlického._
 
-  
+</section>
+
+<section>
 
 **Petr** _(spatřiv MARKÝTKU, jde jí vstříc; mluví srdečně a vesele a rozjařen)_**:** I na moutě duši, koukejme, tohle je ještě ten pravej staročeskej kroj! Člověk by ani neřek, že je tohle ještě v Čechách vidět! Sapraherte, panno Markýtko, vy jste mordsky hezká mladice – krev a mlíko – a tak vesele nastrojená – jako by se člověk za slunečního poledne zakoukal do kvetoucího máku! – _(Podává MARKÝTCE sklenici.)_ Připijte mi, panno Markýtko; na vaši krásu!
 
@@ -141,7 +145,9 @@ _HABRŠPERK a VÁCLAV vyrvou mu stolici._
 
 _PŘEDEŠLÍ _bez_ BLÁHY a HABRŠPERKA. _Později_ KRYSTÝNA._
 
-  
+</section>
+
+<section>
 
 **BUŠEK** _(jde k DUBSKÉMU – posměšně a vítězně)_: No, jářku, Filipe, vidíš – to je ten tvůj miláček. – Tys prál, že je to člověk poctivej –
 
@@ -331,7 +337,9 @@ _VERUNKA a VÁCLAV se radují – hra._
 
 _PŘEDEŠLÍ. KRYSTÝNA _přišla středem, nese písničku.__
 
-  
+</section>
+
+<section>
 
 **Krystýna** _(k VÁCLAVOVI důvěrně)_: Tuhle je ta písnička!
 
@@ -553,3 +561,5 @@ _Hudba spustí._
 **Oba** _(zpívají zároveň_ s _hudbou)_**:** Hujdadra! Hujdadra!
 
 _Opona padá._
+
+</section>
