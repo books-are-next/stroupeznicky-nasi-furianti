@@ -164,6 +164,8 @@ _VERUNKA odběhne do statku v pozadí nalevo._
 
 _HABRŠPERK a BLÁHA na lávce. V pozadí MARKÝTKA a TOBIÁŠ. V hovoru s nimi ŠUMBALKA, DUBSKÁ a houf jiných žen, které kupují dřevěné nádobí… BUŠEK a DUBSKÝ přicházejí z pravé strany. EHRMANN objeví se u kovárny a mluví s KOVÁŘEM._
 
+  
+
 **BUŠEK** _(ukazuje za VÁCLAVEM a VERUNKOU)_: No, jářku, Filipe, sluší jim to, co?
 
 **DUBSKÝ****:** Tuze pěkně.
@@ -218,9 +220,13 @@ _HABRŠPERK a BLÁHA na lávce. V pozadí MARKÝTKA a TOBIÁŠ. V hovoru s 
 
 _Mezi touto poslední řečí odejdou všichni tři ke kovárně, kde se dají do řeči s KOVÁŘEM a usadí se pod přístřeškem. – BLÁHA a HABRŠPERK sedí před chalupou, a hovoříce, kouří z dýmek. HABRŠPERK leští pár vysokých bot, které jsou naraženy na deskách._
 
+  
+
 ## Výstup 4
 
 _FIALOVÁ, KRYSTÝNA, za ní ostatních šest DĚTÍ seřaděno tak, že za Krystýnou, která je nejstarší, stojí ostatní dle výšky v tom pořadu, že je nejmenší dítě FILÍPEK poslední. – PŘEDEŠLÍ._
+
+  
 
 **FIALOVÁ** _(přísně k DĚTEM)_**:** Já **sem** přivedu _(ukáže ke kovárně)_ tamhle vašeho kmotříčka Buška s pantátou Dubským a dám jim žádost, aby udělali vašeho tatíka ponocným, a vy jim oboum pěkně políbíte ruce. Rozumíte?
 
@@ -391,6 +397,8 @@ _DUBSKÝ odejde do pozadí._
 
 _PŘEDEŠLÍ, FIALA, FIALOVÁ, KRYSTÝNA a OSTATNÍ DĚTI _ženou se prudce na jeviště._ ŠUMBALKA zatíná pěsti._
 
+  
+
 **FIALOVÁ** _(při vstoupení na jeviště k FIALOVI, vztekem jsouc rozpálena)_**:** Jak povídám, starej, tohle ty nemůžeš tak nechat! On vynadal tvým dětem cikánů!
 
 **FIALA** _(zlostně)_**:** Kde je, já ho roztrhám!
@@ -451,6 +459,8 @@ _FIALA hrozí EHRMANNOVI. EHRMANN mu tiše domlouvá._
 
 _ŠUMBAL. PŘEDEŠLÍ._
 
+  
+
 **ŠuMbal** _(s uzlíkem na holi na rameni)_**:** I pozdrav pámbu, sousedi! **–** _(Spatří ženu – radostně.)_ I koukejme – moje stará je tu! Pozdrav pámbu, Marjánko!
 
 **ŠUMBALKA** _(dopálena odstrčí ho – bez ohledu a ostře)_**:** No, toť se ví, že jsem tu! – Tuhle strejc Bušek mě sem zavolal a prál, že mi oplatí těch sto dvacet zlatejch, co jsi mu půjčil o píseckým jarmarce!
@@ -486,6 +496,8 @@ _Zároveň PETR, velice čiperný 75letý stařeček, opírá se o hůl, ale je
 ## Výstup 7
 
 _PŘEDEŠLÍ _bez_ ŠUMBALA _a_ ŠUMBALKY_.__
+
+  
 
 **BLÁHA** _(žene se po FIALOVI)_**:** Tak ty mě takovou pomluvou připravuješ o hlasy? – Ty taškáři…
 
@@ -528,6 +540,8 @@ _FIALA se toho ulekne. Všichni se zarazí a umlknou. Malá pauza. Všichni se 
 **Filípek** _(ohlédne se drze po HABRŠPERKOVI a hrozí mu)_: Vy…
 
 _Ticho._
+
+  
 
 **FIALA** _(udělá ve zlosti kříž a začne se modlit, ale jeho zlost zase propukne; hrozí pěstí zezadu BLÁHOVI a soptí vztekem – k sobě)_**:** No počkej, tobě já zasolím! _(Modlí se, pak zase zlostně.)_ Tebe jistě ponocným neudělají.
 

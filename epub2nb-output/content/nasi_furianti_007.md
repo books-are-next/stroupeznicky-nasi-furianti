@@ -9,6 +9,8 @@ _Šenkovna v honické hospodě. V pozadí ve středu dveře. V levém koutě 
 
 _Na pravé straně u stolu sedí DUBSKÝ, DUBSKÁ, VÁCLAV, PETR a BLÁHA. Na levé straně BUŠEK, BUŠKOVÁ, VERUNKA, FIALA a FIALOVÁ. V pozadí sedí ŠMEJKAL, KOŽENÝ, KOVÁŘ a jiní SOUSEDÉ a SOUSEDKY. – Muži kouří z krátkých dýmek; chasníci kouří krátké doutníky a baví se s děvčaty. Všichni ve svátečním obleku. Mnozí mají svlečené kabáty – mají tedy toliko vesty a bílé košile. Jet před večerem. V pozadí stolu nálevního je EHRMANN se svojí ŽENOU; oba obsluhují hosty**.** Rozvojem aktu naleze za kamna houf DĚTÍ, které tam skotačí. Pozadím vstupuje MARKÝTKA a TOBIÁŠ, oba v kroji z okolí domažlického._
 
+  
+
 **Petr** _(spatřiv MARKÝTKU, jde jí vstříc; mluví srdečně a vesele a rozjařen)_**:** I na moutě duši, koukejme, tohle je ještě ten pravej staročeskej kroj! Člověk by ani neřek, že je tohle ještě v Čechách vidět! Sapraherte, panno Markýtko, vy jste mordsky hezká mladice – krev a mlíko – a tak vesele nastrojená – jako by se člověk za slunečního poledne zakoukal do kvetoucího máku! – _(Podává MARKÝTCE sklenici.)_ Připijte mi, panno Markýtko; na vaši krásu!
 
 **Markýtka** _(pije)_**:** Stálé zdraví, strejčku. _(Vrátí PETROVI sklenici.)_ Ale strejčku, vy si umíte ňák divčata dobírat!
@@ -138,6 +140,8 @@ _HABRŠPERK a VÁCLAV vyrvou mu stolici._
 ## Výstup 2
 
 _PŘEDEŠLÍ _bez_ BLÁHY a HABRŠPERKA. _Později_ KRYSTÝNA._
+
+  
 
 **BUŠEK** _(jde k DUBSKÉMU – posměšně a vítězně)_: No, jářku, Filipe, vidíš – to je ten tvůj miláček. – Tys prál, že je to člověk poctivej –
 
@@ -326,6 +330,8 @@ _VERUNKA a VÁCLAV se radují – hra._
 ## Výstup 3
 
 _PŘEDEŠLÍ. KRYSTÝNA _přišla středem, nese písničku.__
+
+  
 
 **Krystýna** _(k VÁCLAVOVI důvěrně)_: Tuhle je ta písnička!
 

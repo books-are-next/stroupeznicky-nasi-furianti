@@ -3,71 +3,37 @@ title: OSOBY
 contentType: prose
 ---
 
-  
-
 **FILIP DUBSKÝ**, sedlák a starosta obce honické
-
-  
 
 **MARIE DUBSKÁ**, jeho žena
 
-  
-
 **VÁCLAV**, jejich syn
-
-  
 
 **PETR DUBSKÝ**, Filipův otec, výměnkář
 
-  
-
 **JAKUB BUŠEK**, sedlák a první radní v Honicích
-
-  
 
 **FRANTIŠKA BUŠKOVÁ**, jeho žena
 
-  
-
 **VERUNKA**, jejich dcera
-
-  
 
 **MARTIN**, jejich syn, 14 let starý
 
-  
-
 **MATĚJ ŠUMBAL**, sedlák a obecní výbor
-
-  
 
 **MARIE**, jeho žena
 
-  
-
 **PAVEL KOŽENÝ**, sedlák a obecní výbor
-
-  
 
 **KAŠPAR ŠMEJKAL**, sedlák a obecní výbor
 
-  
-
 **VALENTIN BLÁHA**, vysloužilý voják
-
-  
 
 **JOSEF HABRŠPERK**, švec
 
-  
-
 **FRANTIŠEK FIALA**, krejčí
 
-  
-
 **TEREZKA**, jeho žena
-
-  
 
 Jejich děti:
 
@@ -87,35 +53,23 @@ Jejich děti:
 
 **OBECNÍ KOVÁŘ**
 
-  
-
 **KAREL KUDRLIČKA**, učitel v Radoticích a písař obce honické
 
-  
-
 **MAREK EHRMANN**, majitel hospody v Honicích
-
-  
 
 **ROZÁRKA**, jeho žena
 
 **TOBIÁŠ NEDOCHODIL**, **MARKÝTKA**, jeho sestra, cestující obchodníci dřevěným nádobím od Domažlic
 
-  
-
 **ZÁVODČÍ ČETNÍK****Ů**, z městečka Rotic
-
-  
 
 **VOJTA**, čeledín na živnosti Dubského
 
-  
-
 **PRVNÍ MUZIKANT**
 
-  
-
 Čtyři muzikanti, ženy, děti, čeleď, chasníci, sousedé.
+
+  
 
 _Děj roku 1869 ve vesnici Honicích v jižních Čechách._
 
