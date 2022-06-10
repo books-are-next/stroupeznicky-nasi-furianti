@@ -9,6 +9,8 @@ _Světnice u představeného Dubského. V pozadí vchod z venku, nalevo vchod
 
 _U malého stolku nalevo sedí DUBSKÁ a PETR a přebírají hrách; VÁCLAV, později MARKÝTKA._
 
+  
+
 **Václav** _(stojí před klecí a hraje si s drozdem)_: Ano, ano, můj zlatej ptáčku – dnes jsi u nás poslední den; zítra donesu tě Verunce!
 
 **Markýtka** _(pozadím)_**:** Pochválen Pán Ježíš Kristus!
@@ -70,6 +72,8 @@ _V síni se ozve hovor – hlasy DUBSKÉHO, BUŠKA, ŠUMBALA a KOŽE­NÉHO._
 ## Výstup 2
 
 _ŠUMBAL, BUŠEK, KOŽENÝ a učitel KUDRLIČKA – za nimi DUBSKÝ. PŘEDEŠLÍ._
+
+  
 
 **DUBSKÝ****:** Tak jen dál, sousedi, jen dál.
 
@@ -175,6 +179,8 @@ _DUBSKÁ zlostně mluví s PETREM, který přebíral dosud hrách do hrníčku,
 
 _**FIALA**. PŘEDEŠLÍ_.__
 
+  
+
 **FIALA** _(úlisně a plazivě)_: Pámbu rač dát šťastný dobrý odpoledne.
 
 **DUBSKÝ****:** Dejž to pámbu. Tak, Fialo, obecní výbor vám dal to ponocenství.
@@ -190,6 +196,8 @@ _UČITEL zatím píše._
 ## Výstup 5
 
 _PŘEDEŠLÍ. MARTIN._
+
+  
 
 **Martin** _(kluk asi 16letý, vrazí bez čepice všecek uřícen do světnice, přiskočí k BUŠKOVI a křičí rychle)_**:** Pantáto! Pantáto! V našich bramborách leží zajíc jako jehně.
 
@@ -214,6 +222,8 @@ _Výborové pozastavují se nad tím. – Hra._
 ## Výstup 6
 
 _PŘEDEŠLÍ. VÁCLAV vede BLÁHU; oba vejdou středem. BLÁHA má v ruce písničku, kterou včera dostal VÁCLAV od KRYSTÝNY._
+
+  
 
 **Václav** _(radostně)_**:** Páni sousedi, to vám nesu veselou novinu!
 
@@ -331,6 +341,8 @@ _Všichni se smějí. ŠMEJKAL se směje zvlášť nápadně._
 ## Výstup 7
 
 _PŘEDEŠLÍ. KRYSTÝNA._
+
+  
 
 **Krystýna****:** Pajmámo, vy prej jste pro mě poslala?
 
@@ -455,6 +467,8 @@ _DUBSKÁ se vrátí, vezme za límec FIALU a vystrčí ho také._
 ## Výstup 8
 
 _PŘEDEŠLÍ. BUŠEK vrazí do světnice, je vidět, že má radost. BLÁHU, který stojí u dveří, nepozoruje. Jde do popředí._
+
+  
 
 **Šmejkal****:** Dostals ho?
 
