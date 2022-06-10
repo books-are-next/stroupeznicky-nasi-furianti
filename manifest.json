@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stroupeznicky-nasi-furianti-d22ba5b",
-  "revision": "d22ba5b",
+  "identifier": "stroupeznicky-nasi-furianti-4cfc195",
+  "revision": "4cfc195",
   "readingOrder": [
     "promo.html",
     "nasi_furianti_005.html",
@@ -19,8 +19,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:20:04 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870804767
+    "date": "Fri Jun 10 2022 17:57:01 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883821302
   },
   "documents": [
     {
@@ -317,9 +317,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 116,
-      "chars": 755,
-      "ideas": 17,
+      "words": 75,
+      "chars": 521,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "nasi_furianti_009.html",
@@ -337,9 +337,9 @@
   ],
   "totals": {
     "all": {
-      "words": 19011,
-      "chars": 110377,
-      "ideas": 1049
+      "words": 18970,
+      "chars": 110143,
+      "ideas": 1039
     },
     "chapters": {
       "words": 18890,

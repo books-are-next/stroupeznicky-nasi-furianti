@@ -3,6 +3,8 @@ title: OSOBY
 contentType: prose
 ---
 
+<section>
+
 **FILIP DUBSKÝ**, sedlák a starosta obce honické
 
 **MARIE DUBSKÁ**, jeho žena
@@ -69,8 +71,12 @@ Jejich děti:
 
 Čtyři muzikanti, ženy, děti, čeleď, chasníci, sousedé.
 
-  
+</section>
+
+<section>
 
 _Děj roku 1869 ve vesnici Honicích v jižních Čechách._
 
 _Dějství I. a IV. hraje se na návsi v Honicích; II. v hospodě a III. ve světnici u starosty Dubského._
+
+</section>
