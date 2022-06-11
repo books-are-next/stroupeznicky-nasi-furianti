@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stroupeznicky-nasi-furianti-4cfc195",
-  "revision": "4cfc195",
+  "identifier": "stroupeznicky-nasi-furianti-4e619f4",
+  "revision": "4e619f4",
   "readingOrder": [
     "promo.html",
     "nasi_furianti_005.html",
@@ -19,8 +19,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:57:01 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883821302
+    "date": "Sat Jun 11 2022 12:12:44 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654949564516
   },
   "documents": [
     {
