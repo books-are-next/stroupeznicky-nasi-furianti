@@ -5,10 +5,11 @@
   "title": "Naši furianti",
   "author": "Ladislav Stroupežnický",
   "publisher": "Městská knihovna v Praze",
+  "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stroupeznicky-nasi-furianti-7d92ef3",
-  "revision": "7d92ef3",
+  "identifier": "stroupeznicky-nasi-furianti-fd0dc6a",
+  "revision": "fd0dc6a",
   "readingOrder": [
     "promo.html",
     "nasi_furianti_005.html",
@@ -19,8 +20,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:58:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272716207
+    "date": "Thu Jun 16 2022 07:33:54 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364834645
   },
   "documents": [
     {
@@ -337,9 +338,9 @@
   ],
   "totals": {
     "all": {
-      "words": 19025,
-      "chars": 110484,
-      "ideas": 1049
+      "words": 19026,
+      "chars": 110489,
+      "ideas": 1050
     },
     "chapters": {
       "words": 18890,
