@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stroupeznicky-nasi-furianti-fd0dc6a",
-  "revision": "fd0dc6a",
+  "identifier": "stroupeznicky-nasi-furianti-19721b3",
+  "revision": "19721b3",
   "readingOrder": [
     "promo.html",
     "nasi_furianti_005.html",
@@ -20,8 +20,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 16 2022 07:33:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655364834645
+    "date": "Thu Jun 23 2022 10:29:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655980198932
   },
   "documents": [
     {
