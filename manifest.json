@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stroupeznicky-nasi-furianti-19721b3",
-  "revision": "19721b3",
+  "identifier": "stroupeznicky-nasi-furianti-d6d92f1",
+  "revision": "d6d92f1",
   "readingOrder": [
     "promo.html",
     "nasi_furianti_005.html",
@@ -17,11 +17,11 @@
     "nasi_furianti_007.html",
     "nasi_furianti_008.html",
     "nasi_furianti_009.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:29:58 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980198932
+    "date": "Thu Jul 07 2022 08:40:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183220006
   },
   "documents": [
     {
@@ -261,7 +261,7 @@
       "role": "chapter",
       "order": 5,
       "prev": "nasi_furianti_008.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -317,11 +317,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 130,
-      "chars": 862,
+      "chars": 861,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "nasi_furianti_009.html",
       "next": null,
@@ -339,7 +339,7 @@
   "totals": {
     "all": {
       "words": 19026,
-      "chars": 110489,
+      "chars": 110488,
       "ideas": 1050
     },
     "chapters": {
