@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stroupeznicky-nasi-furianti-7d54fee",
-  "revision": "7d54fee",
+  "identifier": "stroupeznicky-nasi-furianti-b32da27",
+  "revision": "b32da27",
   "readingOrder": [
     "promo.html",
     "nasi_furianti_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 23:06:10 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924770218
+    "date": "Fri Oct 07 2022 14:06:54 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151614345
   },
   "documents": [
     {
